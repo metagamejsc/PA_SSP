@@ -2,7 +2,7 @@
     "version": "7.2.0",
     "projectId": "01d8b819bddb11e4ea7a644267642880",
     "applicationID": 40364,
-    "creativeName": "SSP_V02_YenTTH_TamNTM",
+    "creativeName": "SSP_V02_YenTTH_TamNTM_",
     "pgServer": "EU",
     "window": {
         "‐⁘": true
@@ -159,7 +159,7 @@
         "enableMecanimWASM": true,
         "minify": true,
         "forceUncompressed": false,
-        "forceBase64": false,
+        "forceBase64": true,
         "graphicsConstraint": 24,
         "genericCheck": true,
         "disableAntiAliasing": true,

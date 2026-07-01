@@ -8,13 +8,13 @@ public class LunaController : MonoBehaviour
     [LunaPlaygroundAsset("BG Image")] public Texture2D BGTexture;
     [LunaPlaygroundField("Limit Time Play?")] public bool UseTime;
     [LunaPlaygroundField("Time Play")] public float TimePlay;
-    [SerializeField] private RawImage BGImage; 
+    [SerializeField] private RawImage BGImage;
     [SerializeField] private List<Button> CTA;
     void Start()
     {
         BGImage.texture = BGTexture;
-        CTA.ForEach(b=>b.onClick.AddListener(ClickCTA));
-        if(UseTime) StartCoroutine(EndGame());
+        CTA.ForEach(b => b.onClick.AddListener(ClickCTA));
+        StartCoroutine(EndGame());
     }
 
     private void ClickCTA()
@@ -25,6 +25,6 @@ public class LunaController : MonoBehaviour
     {
         yield return new WaitForSeconds(TimePlay);
         Luna.Unity.LifeCycle.GameEnded();
-        ClickCTA();
+        if (UseTime) ClickCTA();
     }
 }
