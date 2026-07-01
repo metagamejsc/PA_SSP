@@ -159,7 +159,7 @@
         "enableMecanimWASM": true,
         "minify": true,
         "forceUncompressed": false,
-        "forceBase64": false,
+        "forceBase64": true,
         "graphicsConstraint": 24,
         "genericCheck": true,
         "disableAntiAliasing": true,
@@ -29751,7 +29751,7 @@
         },
         "playerPrefs": true,
         "enableStaticBatching": false,
-        "enableDynamicBatching": false,
+        "enableDynamicBatching": true,
         "forceSourcesBasedCompilation": false
     },
     "assets": {
