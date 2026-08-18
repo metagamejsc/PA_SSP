@@ -2,7 +2,7 @@
     "version": "7.2.0",
     "projectId": "ff24b2211bd970c4d920bad068d2912a",
     "applicationID": 40364,
-    "creativeName": "SSP_V06_YenTTH_TamNTM",
+    "creativeName": "RSNM_V04_YenTTH_TamNTM",
     "pgServer": "EU",
     "window": {
         "‐⁘": true
@@ -31702,6 +31702,26 @@
                         "script": "",
                         "ext": "",
                         "name": "Resources/unity_builtin_extra/Default-Particle"
+                    },
+                    {
+                        "maxWidth": 2048,
+                        "maxHeight": 2048,
+                        "format": "png32",
+                        "compression": "none",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/01 RESOURCES/thumbsprite.png"
+                    },
+                    {
+                        "maxWidth": 2048,
+                        "maxHeight": 2048,
+                        "format": "png32",
+                        "compression": "none",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/01 RESOURCES/bodypart.png"
                     }
                 ]
             },
