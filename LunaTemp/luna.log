@@ -1,0 +1,411 @@
+Authorized using stored user info.
+stderr: 'rm' is not recognized as an internal or external command,
+operable program or batch file.
+
+Exporting assets from Unity....................
+
+[ Stage1 ] Assets exported from Unity and staged for further processing
+Using F:/UnityProjects/SRG_V03/Assets/01 RESOURCES/Font/Better VCR 6.1.ttf file to generate an atlas for Better VCR 6.1[38452] font
+  Using alphabet  ┬º1234567890-=qwertyuiop[]asdfghjkl;'\`zxcvbnm,./┬▒!@#$%^&*()_+QWERTYUIOP{}ASDFGHJKL:"|~ZXCVBNM<>?
+Combined 97 glyphs into bitmap texture at F:/UnityProjects/SRG_V03/LunaTemp/stage1/tmp/fonts/Better VCR 6.1-38452/output_0.png (12kb)
+Found custom rules for sound Assets/01 RESOURCES/Audio/bgm.mp3
+  {"channels":1,"startTime":"00:00.000","endTime":"00:32.088","lengthInSeconds":32.0880012512207,"bitrate":32,"script":"","ext":"","name":"Assets/01 RESOURCES/Audio/bgm.mp3","isOverride":true}
+Found custom rules for sound Assets/01 RESOURCES/Audio/GrinadeBoom1.mp3
+  {"channels":1,"startTime":"00:00.000","endTime":"00:00.000","lengthInSeconds":0,"bitrate":128,"script":"","ext":"","name":"Assets/01 RESOURCES/Audio/GrinadeBoom1.mp3","isOverride":true}
+Found custom rules for texture Assets/01 RESOURCES/Texture/VFX/blood-png-transparent-2.png
+  {"maxWidth":512,"maxHeight":512,"format":"png32","compression":"quantQuality","quality":65,"script":"","ext":"","name":"Assets/01 RESOURCES/Texture/VFX/blood-png-transparent-2.png","isOverride":true}
+Resources:
+{}
+[ Stage2 ] Assets postprocessed and bundled successfully
+Authorized using stored user info.
+MSBuild version 18.8.2+ce25c0108 for .NET Framework
+
+Build started 8/21/2026 5:23:08 PM.
+
+
+
+Project "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" on node 1 (Rebuild target(s)).
+
+CoreClean:
+  Deleting file "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll".
+
+  Deleting file "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.pdb".
+
+  Deleting file "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.dll".
+
+  Deleting file "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.dll".
+
+  Deleting file "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.dll".
+
+  Deleting file "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\DOTween.dll".
+
+  Deleting file "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.dll".
+
+  Deleting file "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.dll".
+
+  Deleting file "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.dll".
+
+  Deleting file "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.dll".
+
+  Deleting file "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.dll".
+
+  Deleting file "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\TextMeshPro.dll".
+
+  Deleting file "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.dll".
+
+  Deleting file "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UI.dll".
+
+  Deleting file "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UniversalRenderPipeline.dll".
+
+  Deleting file "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.xml".
+
+  Deleting file "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.xml".
+
+  Deleting file "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.xml".
+
+  Deleting file "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.xml".
+
+  Deleting file "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.xml".
+
+  Deleting file "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.xml".
+
+  Deleting file "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.xml".
+
+  Deleting file "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.xml".
+
+  Deleting file "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.AssemblyReference.cache".
+
+  Deleting file "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CoreCompileInputs.cache".
+
+  Deleting file "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.Up2Date".
+
+  Deleting file "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.dll".
+
+  Deleting file "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.pdb".
+
+GenerateTargetFrameworkMonikerAttribute:
+Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+
+CoreCompile:
+  Setting DOTNET_TieredCompilation to '0'
+
+  C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\Roslyn\csc.exe /noconfig /nowarn:CS0626,1701,1702 /fullpaths /nostdlib+ /errorreport:prompt /warn:4 /define:UNITY_LUNA;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_6000;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;UNITY_2022_2_OR_NEWER;UNITY_2022_3_OR_NEWER;UNITY_2023_1_OR_NEWER;UNITY_2023_2_OR_NEWER;UNITY_2023_3_OR_NEWER;UNITY_6000_0_OR_NEWER;UNITY_6000_0;UNITY_6000_0_78 /highentropyva+ /reference:F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.42-luna\lib\net40\Bridge.dll /reference:F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.dll /reference:F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.dll /reference:F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\DOTween.1.2.705\lib\net40\DOTween.dll /reference:F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.dll /reference:F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.dll /reference:F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.dll /reference:F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.dll /reference:F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.dll /reference:F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\com.unity.textmeshpro\3.0.6\TextMeshPro.dll /reference:F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Vendor\UnityEngine.dll /reference:F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\com.unity.ui\1.2.1\UnityEngine.UI.dll /reference:F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\com.unity.urp\7.6\UnityEngine.UniversalRenderPipeline.dll /debug+ /debug:full /optimize- /out:obj\Debug\UnityScriptsCompiler.dll /subsystemversion:6.00 /target:library /warnaserror- /utf8output /langversion:8 "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\BlockController.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\IAction.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Model\CharacterController.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Model\EnemyController.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Property\AnimationController.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Property\BodyPiece.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Property\Damageable.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Property\HeathController.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Trigger.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\User\DefenseController.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\User\DropController.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\User\FightController.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\User\OptionController.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\User\TapController.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\BombController.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\BulletController.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\GunController.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\AudioController.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\CameraController.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\GameController.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\LunaController.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\PoolController.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\TutController.cs" F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleAudio.cs F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleEPOOutline.cs F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModulePhysics.cs F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModulePhysics2D.cs F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleSprite.cs F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUI.cs F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUnityVersion.cs F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUtils.cs F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\Plugins\Demigiant\DOTweenPro\DOTweenAnimation.cs F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\Plugins\Demigiant\DOTweenPro\DOTweenDeAudio.cs F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\Plugins\Demigiant\DOTweenPro\DOTweenDeUnityExtended.cs F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\Plugins\Demigiant\DOTweenPro\DOTweenProShortcuts.cs F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\Plugins\Demigiant\DOTweenPro\DOTweenTextMeshPro.cs F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\Plugins\Demigiant\DOTweenPro\DOTweenTk2d.cs Properties/AssemblyInfo.cs Sources/OtherDummyScript.cs "obj\Debug\.NETFramework,Version=v4.7.AssemblyAttributes.cs"
+
+  Compilation request Scripts, PathToTool=C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\Roslyn\csc.exe
+
+  CommandLine = ' /noconfig'
+  BuildResponseFile = '/nowarn:CS0626,1701,1702 /fullpaths /nostdlib+ /errorreport:prompt /warn:4 /define:UNITY_LUNA;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_6000;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;UNITY_2022_2_OR_NEWER;UNITY_2022_3_OR_NEWER;UNITY_2023_1_OR_NEWER;UNITY_2023_2_OR_NEWER;UNITY_2023_3_OR_NEWER;UNITY_6000_0_OR_NEWER;UNITY_6000_0;UNITY_6000_0_78 /highentropyva+ /reference:F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.42-luna\lib\net40\Bridge.dll /reference:F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.dll /reference:F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.dll /reference:F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\DOTween.1.2.705\lib\net40\DOTween.dll /reference:F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.dll /reference:F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.dll /reference:F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.dll /reference:F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.dll /reference:F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.dll /reference:F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\com.unity.textmeshpro\3.0.6\TextMeshPro.dll /reference:F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Vendor\UnityEngine.dll /reference:F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\com.unity.ui\1.2.1\UnityEngine.UI.dll /reference:F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\com.unity.urp\7.6\UnityEngine.UniversalRenderPipeline.dll /debug+ /debug:full /optimize- /out:obj\Debug\UnityScriptsCompiler.dll /subsystemversion:6.00 /target:library /warnaserror- /utf8output /langversion:8 "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\BlockController.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\IAction.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Model\CharacterController.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Model\EnemyController.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Property\AnimationController.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Property\BodyPiece.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Property\Damageable.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Property\HeathController.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Trigger.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\User\DefenseController.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\User\DropController.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\User\FightController.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\User\OptionController.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\User\TapController.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\BombController.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\BulletController.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\GunController.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\AudioController.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\CameraController.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\GameController.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\LunaController.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\PoolController.cs" "F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\TutController.cs" F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleAudio.cs F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleEPOOutline.cs F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModulePhysics.cs F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModulePhysics2D.cs F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleSprite.cs F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUI.cs F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUnityVersion.cs F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUtils.cs F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\Plugins\Demigiant\DOTweenPro\DOTweenAnimation.cs F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\Plugins\Demigiant\DOTweenPro\DOTweenDeAudio.cs F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\Plugins\Demigiant\DOTweenPro\DOTweenDeUnityExtended.cs F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\Plugins\Demigiant\DOTweenPro\DOTweenProShortcuts.cs F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\Plugins\Demigiant\DOTweenPro\DOTweenTextMeshPro.cs F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\Plugins\Demigiant\DOTweenPro\DOTweenTk2d.cs Properties/AssemblyInfo.cs Sources/OtherDummyScript.cs "obj\Debug\.NETFramework,Version=v4.7.AssemblyAttributes.cs"'
+
+  Attempting to create process 'C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\Roslyn\VBCSCompiler.exe' "-pipename:JaSzLJ79ohNwuN4YExVd335aZo5AVCxG2mZ7CTAeWIc"
+
+  Setting DOTNET_TieredCompilation to '0'
+
+  Successfully created process with process id 61296
+
+  Attempt to open named pipe 'JaSzLJ79ohNwuN4YExVd335aZo5AVCxG2mZ7CTAeWIc'
+
+  Attempt to connect named pipe 'JaSzLJ79ohNwuN4YExVd335aZo5AVCxG2mZ7CTAeWIc'
+
+  Named pipe 'JaSzLJ79ohNwuN4YExVd335aZo5AVCxG2mZ7CTAeWIc' connected
+
+  Begin writing request for Scripts
+
+  End writing request for Scripts
+  Begin reading response for Scripts
+
+  End reading response for Scripts
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\BlockController.cs(9,41): warning CS0649: Field 'BlockController.breakVFX' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\LunaController.cs(26,42): warning CS0649: Field 'LunaController.musicSource' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\GunController.cs(10,42): warning CS0649: Field 'GunController.sound' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Model\CharacterController.cs(7,40): warning CS0649: Field 'CharacterController.body' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\AudioController.cs(8,34): warning CS0649: Field 'AudioController.startSize' is never assigned to, and will always have its default value 0 [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\TutController.cs(8,36): warning CS0649: Field 'TutController.moveTime' is never assigned to, and will always have its default value 0 [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\User\DefenseController.cs(10,38): warning CS0649: Field 'DefenseController.offset' is never assigned to, and will always have its default value [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\User\DropController.cs(12,42): warning CS0649: Field 'DropController.sound' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\GunController.cs(12,37): warning CS0649: Field 'GunController.activeKey' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Model\CharacterController.cs(6,46): warning CS0649: Field 'CharacterController.heath' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\GameController.cs(9,44): warning CS0649: Field 'GameController.startScene' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Property\BodyPiece.cs(6,40): warning CS0649: Field 'BodyPiece.skeleton' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\CameraController.cs(5,37): warning CS0649: Field 'CameraController.cam' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\User\DefenseController.cs(6,40): warning CS0649: Field 'DefenseController.surfaceLayer' is never assigned to, and will always have its default value [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Model\EnemyController.cs(17,46): warning CS0649: Field 'EnemyController.bodyPieces' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\BombController.cs(7,36): warning CS0649: Field 'BombController.delayAction' is never assigned to, and will always have its default value 0 [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\PoolController.cs(7,40): warning CS0649: Field 'PoolController.poolParent' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\BlockController.cs(7,40): warning CS0649: Field 'BlockController.breakSound' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\GameController.cs(14,37): warning CS0649: Field 'GameController.fightButton' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\GunController.cs(11,50): warning CS0649: Field 'GunController.anim' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\TutController.cs(10,36): warning CS0649: Field 'TutController.toScale' is never assigned to, and will always have its default value 0 [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\User\DropController.cs(7,40): warning CS0649: Field 'DropController.surfaceLayer' is never assigned to, and will always have its default value [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\GameController.cs(11,44): warning CS0649: Field 'GameController.failScene' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\BulletController.cs(8,36): warning CS0649: Field 'BulletController.speed' is never assigned to, and will always have its default value 0 [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\GunController.cs(14,43): warning CS0649: Field 'GunController.gun' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\TutController.cs(7,44): warning CS0649: Field 'TutController.movePos' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Model\EnemyController.cs(11,40): warning CS0649: Field 'EnemyController.rigid' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\AudioController.cs(7,40): warning CS0649: Field 'AudioController.poolParent' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\TutController.cs(11,36): warning CS0649: Field 'TutController.scaleTime' is never assigned to, and will always have its default value 0 [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Property\AnimationController.cs(5,39): warning CS0649: Field 'AnimationController.animator' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\LunaController.cs(22,41): warning CS0649: Field 'LunaController.tutText' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Model\EnemyController.cs(9,50): warning CS0649: Field 'EnemyController.anim' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\GunController.cs(7,36): warning CS0649: Field 'GunController.delayAction' is never assigned to, and will always have its default value 0 [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Model\CharacterController.cs(9,46): warning CS0649: Field 'CharacterController.bodyPieces' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Model\EnemyController.cs(6,48): warning CS0649: Field 'EnemyController.joint' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\GunController.cs(13,37): warning CS0649: Field 'GunController.actionKey' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\BombController.cs(9,41): warning CS0649: Field 'BombController.actionVFX' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Property\HeathController.cs(9,41): warning CS0649: Field 'HeathController.damageVFX' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Property\HeathController.cs(8,47): warning CS0649: Field 'HeathController.damageables' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Model\CharacterController.cs(10,47): warning CS0649: Field 'CharacterController.weapons' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\GunController.cs(17,43): warning CS0649: Field 'GunController.fakegun' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\BulletController.cs(10,40): warning CS0649: Field 'BulletController.hitSound' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Model\EnemyController.cs(7,44): warning CS0649: Field 'EnemyController.gun' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\BombController.cs(10,40): warning CS0649: Field 'BombController.actionSFX' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\GameController.cs(18,40): warning CS0649: Field 'GameController.clickSound' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\User\DefenseController.cs(13,41): warning CS0649: Field 'DefenseController.buildTut' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\LunaController.cs(27,43): warning CS0649: Field 'LunaController.CTA' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\User\DefenseController.cs(7,40): warning CS0649: Field 'DefenseController.blockingLayer' is never assigned to, and will always have its default value [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\GameController.cs(10,44): warning CS0649: Field 'GameController.completeScene' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\BlockController.cs(8,47): warning CS0649: Field 'BlockController.damageables' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\BulletController.cs(6,40): warning CS0649: Field 'BulletController.rigid' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\User\DefenseController.cs(8,40): warning CS0649: Field 'DefenseController.world' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\GameController.cs(15,47): warning CS0649: Field 'GameController.fightController' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\User\TapController.cs(7,41): warning CS0649: Field 'TapController.tapTut' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\GameController.cs(16,37): warning CS0649: Field 'GameController.defenseButton' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\TutController.cs(9,36): warning CS0649: Field 'TutController.fromScale' is never assigned to, and will always have its default value 0 [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\User\DropController.cs(9,41): warning CS0649: Field 'DropController.currentDrop' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\BombController.cs(6,34): warning CS0649: Field 'BombController.damage' is never assigned to, and will always have its default value 0 [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Model\CharacterController.cs(8,50): warning CS0649: Field 'CharacterController.anim' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Property\HeathController.cs(11,40): warning CS0649: Field 'HeathController.deathSound' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\User\DefenseController.cs(11,40): warning CS0649: Field 'DefenseController.putSound' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Model\EnemyController.cs(12,36): warning CS0649: Field 'EnemyController.speed' is never assigned to, and will always have its default value 0 [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\LunaController.cs(25,39): warning CS0649: Field 'LunaController.BGImage' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\BulletController.cs(9,36): warning CS0649: Field 'BulletController.lifeTime' is never assigned to, and will always have its default value 0 [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\GameController.cs(17,47): warning CS0649: Field 'GameController.defenseController' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\BombController.cs(8,36): warning CS0649: Field 'BombController.radius' is never assigned to, and will always have its default value 0 [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\User\DropController.cs(10,40): warning CS0169: The field 'DropController.world' is never used [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\GunController.cs(6,36): warning CS0649: Field 'GunController.delayActive' is never assigned to, and will always have its default value 0 [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\User\DefenseController.cs(9,36): warning CS0649: Field 'DefenseController.cellSize' is never assigned to, and will always have its default value 0 [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\GunController.cs(9,41): warning CS0649: Field 'GunController.bulletPrefab' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Property\HeathController.cs(10,40): warning CS0649: Field 'HeathController.damageSound' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Model\EnemyController.cs(10,43): warning CS0649: Field 'EnemyController.trigger' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\GunController.cs(8,40): warning CS0649: Field 'GunController.aim' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Model\EnemyController.cs(8,46): warning CS0649: Field 'EnemyController.heath' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\LunaController.cs(21,41): warning CS0649: Field 'LunaController.optionText' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\BulletController.cs(7,34): warning CS0649: Field 'BulletController.damage' is never assigned to, and will always have its default value 0 [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\CameraController.cs(9,19): warning CS0649: Field 'CameraController.oldRatio' is never assigned to, and will always have its default value 0 [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\LunaController.cs(10,47): warning CS0649: Field 'LunaController.cam' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+  CompilerServer: server - server processed compilation - Scripts
+
+_CopyFilesMarkedCopyLocal:
+  Copying file from "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.dll" to "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.dll".
+
+  Copying file from "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.dll" to "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.dll".
+  Copying file from "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.dll" to "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.dll".
+
+  Copying file from "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.dll" to "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.dll".
+
+  Copying file from "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.42-luna\lib\net40\Bridge.dll" to "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.dll".
+
+  Copying file from "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\DOTween.1.2.705\lib\net40\DOTween.dll" to "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\DOTween.dll".
+
+  Copying file from "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.dll" to "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.dll".
+
+  Copying file from "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\com.unity.textmeshpro\3.0.6\TextMeshPro.dll" to "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\TextMeshPro.dll".
+
+  Copying file from "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.dll" to "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.dll".
+
+  Copying file from "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.dll" to "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.dll".
+
+  Copying file from "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Vendor\UnityEngine.dll" to "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.dll".
+
+  Copying file from "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\com.unity.ui\1.2.1\UnityEngine.UI.dll" to "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UI.dll".
+
+  Copying file from "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\com.unity.urp\7.6\UnityEngine.UniversalRenderPipeline.dll" to "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UniversalRenderPipeline.dll".
+
+  Copying file from "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.42-luna\lib\net40\Bridge.xml" to "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.xml".
+
+  Copying file from "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.xml" to "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.xml".
+
+  Copying file from "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.xml" to "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.xml".
+
+  Copying file from "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.xml" to "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.xml".
+
+  Copying file from "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.xml" to "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.xml".
+
+  Copying file from "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.xml" to "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.xml".
+  Copying file from "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.xml" to "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.xml".
+
+  Copying file from "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.xml" to "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.xml".
+
+  Creating "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.Up2Date" because "AlwaysCreate" was specified.
+
+  Touching "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.Up2Date".
+
+CopyFilesToOutputDirectory:
+  Copying file from "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.dll" to "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll".
+
+  Scripts -> F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll
+
+  Copying file from "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.pdb" to "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.pdb".
+
+BridgeNetCompilerTask:
+  Bridge started
+
+      To enable detailed logging, configure "logging" in bridge.json.
+
+      https://github.com/bridgedotnet/Bridge/wiki/global-configuration#logging
+
+  Bridge done
+
+Done Building Project "F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" (Rebuild target(s)).
+
+
+Build succeeded.
+
+
+"F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" (Rebuild target) (1) ->
+(CoreCompile target) -> 
+
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\BlockController.cs(9,41): warning CS0649: Field 'BlockController.breakVFX' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\LunaController.cs(26,42): warning CS0649: Field 'LunaController.musicSource' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\GunController.cs(10,42): warning CS0649: Field 'GunController.sound' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Model\CharacterController.cs(7,40): warning CS0649: Field 'CharacterController.body' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\AudioController.cs(8,34): warning CS0649: Field 'AudioController.startSize' is never assigned to, and will always have its default value 0 [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\TutController.cs(8,36): warning CS0649: Field 'TutController.moveTime' is never assigned to, and will always have its default value 0 [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\User\DefenseController.cs(10,38): warning CS0649: Field 'DefenseController.offset' is never assigned to, and will always have its default value [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\User\DropController.cs(12,42): warning CS0649: Field 'DropController.sound' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\GunController.cs(12,37): warning CS0649: Field 'GunController.activeKey' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Model\CharacterController.cs(6,46): warning CS0649: Field 'CharacterController.heath' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\GameController.cs(9,44): warning CS0649: Field 'GameController.startScene' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Property\BodyPiece.cs(6,40): warning CS0649: Field 'BodyPiece.skeleton' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\CameraController.cs(5,37): warning CS0649: Field 'CameraController.cam' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\User\DefenseController.cs(6,40): warning CS0649: Field 'DefenseController.surfaceLayer' is never assigned to, and will always have its default value [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Model\EnemyController.cs(17,46): warning CS0649: Field 'EnemyController.bodyPieces' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\BombController.cs(7,36): warning CS0649: Field 'BombController.delayAction' is never assigned to, and will always have its default value 0 [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\PoolController.cs(7,40): warning CS0649: Field 'PoolController.poolParent' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\BlockController.cs(7,40): warning CS0649: Field 'BlockController.breakSound' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\GameController.cs(14,37): warning CS0649: Field 'GameController.fightButton' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\GunController.cs(11,50): warning CS0649: Field 'GunController.anim' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\TutController.cs(10,36): warning CS0649: Field 'TutController.toScale' is never assigned to, and will always have its default value 0 [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\User\DropController.cs(7,40): warning CS0649: Field 'DropController.surfaceLayer' is never assigned to, and will always have its default value [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\GameController.cs(11,44): warning CS0649: Field 'GameController.failScene' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\BulletController.cs(8,36): warning CS0649: Field 'BulletController.speed' is never assigned to, and will always have its default value 0 [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\GunController.cs(14,43): warning CS0649: Field 'GunController.gun' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\TutController.cs(7,44): warning CS0649: Field 'TutController.movePos' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Model\EnemyController.cs(11,40): warning CS0649: Field 'EnemyController.rigid' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\AudioController.cs(7,40): warning CS0649: Field 'AudioController.poolParent' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\TutController.cs(11,36): warning CS0649: Field 'TutController.scaleTime' is never assigned to, and will always have its default value 0 [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Property\AnimationController.cs(5,39): warning CS0649: Field 'AnimationController.animator' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\LunaController.cs(22,41): warning CS0649: Field 'LunaController.tutText' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Model\EnemyController.cs(9,50): warning CS0649: Field 'EnemyController.anim' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\GunController.cs(7,36): warning CS0649: Field 'GunController.delayAction' is never assigned to, and will always have its default value 0 [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Model\CharacterController.cs(9,46): warning CS0649: Field 'CharacterController.bodyPieces' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Model\EnemyController.cs(6,48): warning CS0649: Field 'EnemyController.joint' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\GunController.cs(13,37): warning CS0649: Field 'GunController.actionKey' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\BombController.cs(9,41): warning CS0649: Field 'BombController.actionVFX' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Property\HeathController.cs(9,41): warning CS0649: Field 'HeathController.damageVFX' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Property\HeathController.cs(8,47): warning CS0649: Field 'HeathController.damageables' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Model\CharacterController.cs(10,47): warning CS0649: Field 'CharacterController.weapons' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\GunController.cs(17,43): warning CS0649: Field 'GunController.fakegun' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\BulletController.cs(10,40): warning CS0649: Field 'BulletController.hitSound' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Model\EnemyController.cs(7,44): warning CS0649: Field 'EnemyController.gun' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\BombController.cs(10,40): warning CS0649: Field 'BombController.actionSFX' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\GameController.cs(18,40): warning CS0649: Field 'GameController.clickSound' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\User\DefenseController.cs(13,41): warning CS0649: Field 'DefenseController.buildTut' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\LunaController.cs(27,43): warning CS0649: Field 'LunaController.CTA' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\User\DefenseController.cs(7,40): warning CS0649: Field 'DefenseController.blockingLayer' is never assigned to, and will always have its default value [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\GameController.cs(10,44): warning CS0649: Field 'GameController.completeScene' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\BlockController.cs(8,47): warning CS0649: Field 'BlockController.damageables' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\BulletController.cs(6,40): warning CS0649: Field 'BulletController.rigid' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\User\DefenseController.cs(8,40): warning CS0649: Field 'DefenseController.world' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\GameController.cs(15,47): warning CS0649: Field 'GameController.fightController' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\User\TapController.cs(7,41): warning CS0649: Field 'TapController.tapTut' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\GameController.cs(16,37): warning CS0649: Field 'GameController.defenseButton' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\TutController.cs(9,36): warning CS0649: Field 'TutController.fromScale' is never assigned to, and will always have its default value 0 [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\User\DropController.cs(9,41): warning CS0649: Field 'DropController.currentDrop' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\BombController.cs(6,34): warning CS0649: Field 'BombController.damage' is never assigned to, and will always have its default value 0 [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Model\CharacterController.cs(8,50): warning CS0649: Field 'CharacterController.anim' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Property\HeathController.cs(11,40): warning CS0649: Field 'HeathController.deathSound' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\User\DefenseController.cs(11,40): warning CS0649: Field 'DefenseController.putSound' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Model\EnemyController.cs(12,36): warning CS0649: Field 'EnemyController.speed' is never assigned to, and will always have its default value 0 [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\LunaController.cs(25,39): warning CS0649: Field 'LunaController.BGImage' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\BulletController.cs(9,36): warning CS0649: Field 'BulletController.lifeTime' is never assigned to, and will always have its default value 0 [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\GameController.cs(17,47): warning CS0649: Field 'GameController.defenseController' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\BombController.cs(8,36): warning CS0649: Field 'BombController.radius' is never assigned to, and will always have its default value 0 [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\User\DropController.cs(10,40): warning CS0169: The field 'DropController.world' is never used [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\GunController.cs(6,36): warning CS0649: Field 'GunController.delayActive' is never assigned to, and will always have its default value 0 [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\User\DefenseController.cs(9,36): warning CS0649: Field 'DefenseController.cellSize' is never assigned to, and will always have its default value 0 [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\GunController.cs(9,41): warning CS0649: Field 'GunController.bulletPrefab' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Property\HeathController.cs(10,40): warning CS0649: Field 'HeathController.damageSound' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Model\EnemyController.cs(10,43): warning CS0649: Field 'EnemyController.trigger' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\GunController.cs(8,40): warning CS0649: Field 'GunController.aim' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Model\EnemyController.cs(8,46): warning CS0649: Field 'EnemyController.heath' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\LunaController.cs(21,41): warning CS0649: Field 'LunaController.optionText' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Gameplay\Weapon\BulletController.cs(7,34): warning CS0649: Field 'BulletController.damage' is never assigned to, and will always have its default value 0 [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\CameraController.cs(9,19): warning CS0649: Field 'CameraController.oldRatio' is never assigned to, and will always have its default value 0 [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  F:\UnityProjects\SRG_V03\LunaTemp\stage3\processed-scripts\Assets\00 SCRIPTS\Manager\LunaController.cs(10,47): warning CS0649: Field 'LunaController.cam' is never assigned to, and will always have its default value null [F:\LunaPlayworks\7.2.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+    78 Warning(s)
+
+    0 Error(s)
+
+
+Time Elapsed 00:00:08.13
+
+Source code compiled successfully!
+∩╗┐
+[ error ] $∩╗┐
+Diagnostics gathered successfully
+[ Stage3 ] Code compiled and bundled successfully.
+[ Stage4 ] Target platform: playground
+[ Stage4 ] Package bundled successfully
+navigateto:https://assets-lunalabs-io.s3-accelerate.amazonaws.com/uploads%2Fdirect%2Fad116d0114c07e0071fdc5bca2a294dc%2FSRG_V03_YenTTH_TamNTM_build.zip
+[ Stage4 ] Package uploaded successfully
